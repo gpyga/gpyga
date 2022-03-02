@@ -1,7 +1,7 @@
 
 👋 I'm Nick
 ---
-I am primarily interested in marrying ML with traditional OR/MS methods. Adjacently, I am interested in research methods in general. Being self-taught, I am always looking for more learning resources, [please share](https://github.com/gpyga/gpyga/discussions)!
+I am primarily interested in marrying ML with traditional OR/MS and research methods. Adjacently, I am interested in research methods in general. Being self-taught, I am always looking for more learning resources, [please share](https://github.com/gpyga/gpyga/discussions)!
 
 About
 ---
